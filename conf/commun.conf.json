@@ -1,0 +1,18 @@
+{
+    "trigramme": {
+        "ACH" : "Achats",
+        "BUD" : "Budgets",
+        "DON" : "Dons",
+        "FAC" : "Facturation",
+        "MAG" : "Magasin",
+        "NOM" : "Nomenclature",
+        "PRE" : "Preparation",
+        "PRI" : "Pricing",
+        "QUA" : "Qualite",
+        "REP" : "Repartition",
+        "SOC" : "Societes",
+        "STO" : "Stock",
+        "TRA" : "Traduction",
+        "COC" : "Concurrence"
+    } 
+}
